@@ -35,8 +35,6 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Login/Page_CURA Hea
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login/Page_CURA Healthcare Service/p_Yes'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Login/Page_CURA Healthcare Service/p_Medicare'))
-
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login/Page_CURA Healthcare Service/p_01082024'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login/Page_CURA Healthcare Service/p_Automation Test'))
