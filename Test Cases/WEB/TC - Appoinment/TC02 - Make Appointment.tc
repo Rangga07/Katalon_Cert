@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Make Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8459c941-5011-42d8-8499-ade76c116f25</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15de6493-e0e9-4233-879b-2b72ca5a7a76</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Automation Test'</defaultValue>
+      <description></description>
+      <id>15de6493-e0e9-4233-879b-2b72ca5a7a76</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
